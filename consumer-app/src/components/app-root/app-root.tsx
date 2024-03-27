@@ -15,6 +15,7 @@ export class AppRoot {
 
         <main>
           <h1>Hello World!</h1>
+          <my-component />
         </main>
       </div>
     );

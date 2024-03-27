@@ -1,9 +1,9 @@
 {
-  "name": "code-duplication-test",
+  "name": "my-component-lib",
   "version": "0.0.1",
   "description": "Stencil Component Starter",
   "module": "dist/components/index.js",
-  "types": "dist/types/index.d.ts",
+  "types": "dist/components/index.d.ts",
   "exports": {
     "./my-component": {
       "import": "./dist/components/my-component.js",
